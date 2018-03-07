@@ -4,11 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### About
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+기계학습 블로그
+한성대학교 석사과정 18학번 박상민
 
 ### Contact me
 
