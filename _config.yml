@@ -9,7 +9,7 @@ name: SangMin Park
 description: ML-Blog
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: ./images/psm9733-logo.png
+avatar: https://github.com/barryclark/jekyll-now/blob/master/images/jekyll-logo.png?raw=true
 #avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 #
 # Flags below are optional
