@@ -3,53 +3,53 @@ layout: post
 title: <mark>Regression(7week)</mark>
 ---
 
-![_config.yml]({{ site.baseurl }}/images/2018-4-22-Regression/ppt1.png)
+![_config.yml]({{ site.baseurl }}/images/2018-4-22-Regression/ppt1.PNG)
 <hr><br>
-![_config.yml]({{ site.baseurl }}/images/2018-4-22-Regression/ppt2.png)
+![_config.yml]({{ site.baseurl }}/images/2018-4-22-Regression/ppt2.PNG)
 <hr><br>
-![_config.yml]({{ site.baseurl }}/images/2018-4-22-Regression/ppt3.png)
+![_config.yml]({{ site.baseurl }}/images/2018-4-22-Regression/ppt3.PNG)
 <hr><br>
-![_config.yml]({{ site.baseurl }}/images/2018-4-22-Regression/ppt4.png)
+![_config.yml]({{ site.baseurl }}/images/2018-4-22-Regression/ppt4.PNG)
 <hr><br>
-![_config.yml]({{ site.baseurl }}/images/2018-4-22-Regression/ppt5.png)
+![_config.yml]({{ site.baseurl }}/images/2018-4-22-Regression/ppt5.PNG)
 <hr><br>
-![_config.yml]({{ site.baseurl }}/images/2018-4-22-Regression/ppt6.png)
+![_config.yml]({{ site.baseurl }}/images/2018-4-22-Regression/ppt6.PNG)
 <hr><br>
-![_config.yml]({{ site.baseurl }}/images/2018-4-22-Regression/ppt7.png)
+![_config.yml]({{ site.baseurl }}/images/2018-4-22-Regression/ppt7.PNG)
 <hr><br>
-![_config.yml]({{ site.baseurl }}/images/2018-4-22-Regression/ppt8.png)
+![_config.yml]({{ site.baseurl }}/images/2018-4-22-Regression/ppt8.PNG)
 <hr><br>
-![_config.yml]({{ site.baseurl }}/images/2018-4-22-Regression/ppt9.png)
+![_config.yml]({{ site.baseurl }}/images/2018-4-22-Regression/ppt9.PNG)
 <hr><br>
-![_config.yml]({{ site.baseurl }}/images/2018-4-22-Regression/ppt10.png)
+![_config.yml]({{ site.baseurl }}/images/2018-4-22-Regression/ppt10.PNG)
 <hr><br>
-![_config.yml]({{ site.baseurl }}/images/2018-4-22-Regression/ppt11.png)
+![_config.yml]({{ site.baseurl }}/images/2018-4-22-Regression/ppt11.PNG)
 <hr><br>
-![_config.yml]({{ site.baseurl }}/images/2018-4-22-Regression/ppt12.png)
+![_config.yml]({{ site.baseurl }}/images/2018-4-22-Regression/ppt12.PNG)
 <hr><br>
-![_config.yml]({{ site.baseurl }}/images/2018-4-22-Regression/ppt13.png)
+![_config.yml]({{ site.baseurl }}/images/2018-4-22-Regression/ppt13.PNG)
 <hr><br>
-![_config.yml]({{ site.baseurl }}/images/2018-4-22-Regression/ppt14.png)
+![_config.yml]({{ site.baseurl }}/images/2018-4-22-Regression/ppt14.PNG)
 <hr><br>
-![_config.yml]({{ site.baseurl }}/images/2018-4-22-Regression/ppt15.png)
+![_config.yml]({{ site.baseurl }}/images/2018-4-22-Regression/ppt15.PNG)
 <hr><br>
-![_config.yml]({{ site.baseurl }}/images/2018-4-22-Regression/ppt16.png)
+![_config.yml]({{ site.baseurl }}/images/2018-4-22-Regression/ppt16.PNG)
 <hr><br>
-![_config.yml]({{ site.baseurl }}/images/2018-4-22-Regression/ppt17.png)
+![_config.yml]({{ site.baseurl }}/images/2018-4-22-Regression/ppt17.PNG)
 <hr><br>
-![_config.yml]({{ site.baseurl }}/images/2018-4-22-Regression/ppt18.png)
+![_config.yml]({{ site.baseurl }}/images/2018-4-22-Regression/ppt18.PNG)
 <hr><br>
-![_config.yml]({{ site.baseurl }}/images/2018-4-22-Regression/ppt19.png)
+![_config.yml]({{ site.baseurl }}/images/2018-4-22-Regression/ppt19.PNG)
 <hr><br>
-![_config.yml]({{ site.baseurl }}/images/2018-4-22-Regression/ppt20.png)
+![_config.yml]({{ site.baseurl }}/images/2018-4-22-Regression/ppt20.PNG)
 <hr><br>
-![_config.yml]({{ site.baseurl }}/images/2018-4-22-Regression/ppt21.png)
+![_config.yml]({{ site.baseurl }}/images/2018-4-22-Regression/ppt21.PNG)
 <hr><br>
-![_config.yml]({{ site.baseurl }}/images/2018-4-22-Regression/ppt22.png)
+![_config.yml]({{ site.baseurl }}/images/2018-4-22-Regression/ppt22.PNG)
 <hr><br>
-![_config.yml]({{ site.baseurl }}/images/2018-4-22-Regression/ppt23.png)
+![_config.yml]({{ site.baseurl }}/images/2018-4-22-Regression/ppt23.PNG)
 <hr><br>
-![_config.yml]({{ site.baseurl }}/images/2018-4-22-Regression/ppt24.png)
+![_config.yml]({{ site.baseurl }}/images/2018-4-22-Regression/ppt24.PNG)
 <hr><br>
-![_config.yml]({{ site.baseurl }}/images/2018-4-22-Regression/ppt25.png)
+![_config.yml]({{ site.baseurl }}/images/2018-4-22-Regression/ppt25.PNG)
 <hr><br>
