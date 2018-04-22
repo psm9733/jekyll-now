@@ -3,9 +3,9 @@ layout: post
 title: <mark>Regression(7week)</mark>
 ---
 <h2>---</h2>
-<div class="well well-sm">
+
 [Download ppt](https://github.com/psm9733/psm9733.github.io/raw/master/ppt/Regression.pptx)
-</div>
+<hr><br>
 ![_config.yml]({{ site.baseurl }}/images/2018-4-22-Regression/ppt1.PNG)
 <hr><br>
 ![_config.yml]({{ site.baseurl }}/images/2018-4-22-Regression/ppt2.PNG)
