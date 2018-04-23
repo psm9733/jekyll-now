@@ -2,7 +2,8 @@
 layout: post
 title: <mark>Regression(7week)</mark>
 ---
-<h2>---</h2>
+<h2>------</h2>
+
 
 [Download ppt](https://github.com/psm9733/psm9733.github.io/raw/master/ppt/Regression.pptx)
 <hr><br>
