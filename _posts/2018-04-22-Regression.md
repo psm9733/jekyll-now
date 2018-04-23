@@ -52,7 +52,3 @@ title: <mark>Regression(7week)</mark>
 <hr><br>
 ![_config.yml]({{ site.baseurl }}/images/2018-4-22-Regression/ppt23.PNG)
 <hr><br>
-![_config.yml]({{ site.baseurl }}/images/2018-4-22-Regression/ppt24.PNG)
-<hr><br>
-![_config.yml]({{ site.baseurl }}/images/2018-4-22-Regression/ppt25.PNG)
-<hr><br>
